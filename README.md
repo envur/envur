@@ -1,5 +1,3 @@
-
-
 # Salve! I'm Envur, welcome to my profile!
 
 👽 Gustavo Mendes Stefanello, 18 years old
@@ -8,7 +6,4 @@
 
 📚 System's Analysis and Development at Faculdades Integradas Einstein de Limeira
 
-🏢 Deals Analyst at BluePex® Security Solutions
-
-
-
+🏢 Back-End Developer at Upiara
