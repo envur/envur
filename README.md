@@ -1,4 +1,4 @@
-# Welcome! I'm Envur, welcome to my profile!
+# Hello! I'm Envur, welcome to my profile!
 
 👽 Gustavo Mendes Stefanello, 18 years old
 
