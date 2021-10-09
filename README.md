@@ -1,4 +1,4 @@
-# Hello, I'm Envur! Welcome to my profile!
+<h1 align="center">Hello, I'm Envur! Welcome to my profile!</h1>
 
 ## 🏝 About Me
 
@@ -11,6 +11,11 @@
 🎸 Qualified Mediocre Guitarrist
 
 ## 📡 Get in Touch With Me!
+
+<a href="https://www.instagram.com/nvr.gustavo"><img src="images/instagram.png" alt="Envur | Instagram" style="height: 25px;"></a>
+<a href="https://www.twitter.com/the_envur"><img src="images/twitter.png" alt="Envur | Twitter" style="height: 25px;"></a>
+<a href="https://www.linkedin.com/in/gustavo-stefanello/"><img src="images/linkedin.png" alt="Envur | LinkedIn" style="height: 25px;"></a>
+<a href="https://www.reddit.com/u/envur/"><img src="images/reddit.png" alt="Envur | Reddit" style="height: 25px;"></a>
 
 ## 📊 My Stats
 
