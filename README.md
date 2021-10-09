@@ -1,9 +1,21 @@
-# Hello! I'm Envur, welcome to my profile!
+# Hello, I'm Envur! Welcome to my profile!
 
-👽 Gustavo Mendes Stefanello, 18 years old
+## 🏝 About Me
 
-💻 InfoSec Enthusiast
+🇧🇷 Gustavo Mendes Stefanello, 18 years old
 
-📚 System's Analysis and Development at Faculdades Integradas Einstein de Limeira
+📝 Studying System's Analysis and Development at Faculdades Integradas Einstein de Limeira
 
-🏢 Back-End Developer at Upiara
+👨🏻‍💻 Back-end Developer at Upiara
+
+🎸 Qualified Mediocre Guitarrist
+
+## 📡 Get in Touch With Me!
+
+## 📊 My Stats
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=envur)](https://github.com/envur)
+
+## 💻 My Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=envur&layout=compact)](https://github.com/envur)
