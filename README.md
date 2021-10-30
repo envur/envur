@@ -8,7 +8,7 @@
 
 👨🏻‍💻 Back-end Developer at Upiara
 
-🎸 Qualified Mediocre Guitarrist
+🎸 I play some songs sometimes
 
 ## 📡 Get in Touch With Me!
 
@@ -19,8 +19,8 @@
 
 ## 📊 My Stats
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=envur)](https://github.com/envur)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=envur&theme=dark)](https://github.com/envur)
 
 ## 💻 My Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=envur&layout=compact)](https://github.com/envur)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=envur&layout=compact&theme=dark)](https://github.com/envur)
