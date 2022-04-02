@@ -2,7 +2,7 @@
 
 ## About Me
 
-🇧🇷 Gustavo Mendes Stefanello,9 years old
+🇧🇷 Gustavo Mendes Stefanello, 19 years old
 
 👨🏻‍💻 Back-end Developer at Upiara
 
