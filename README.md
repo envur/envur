@@ -1,8 +1,6 @@
-<h1 align="center">I'm Envur. This is my profile.</h1>
-
 ## About Me
 
-🇧🇷 Gustavo Mendes Stefanello, 19 years old
+🇧🇷 Gustavo Mendes Stefanello, 20 years old
 
 👨🏻‍💻 Back-end Developer at Upiara
 
